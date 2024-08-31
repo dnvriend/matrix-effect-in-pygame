@@ -1,0 +1,9 @@
+use python 3.12
+create a animated matrix rain effect
+use hardware acceleration graphics on the gpu
+the matrix rain should be fullscreen with animated letters
+the letters should be falling down the screen
+the letters should be configurable via the console as argument 
+by default you get the matrix rain with the default alphabet
+
+
