@@ -1,5 +1,5 @@
 # matrix-effect-in-pygame
-[![](https://img.shields.io/badge/generated-with_cursor-blue)](https://cursor.sh)
+[![](https://img.shields.io/badge/generated-with_cursor-blue)](https://cursor.sh)<br/>
 This project creates a fullscreen Matrix-style rain effect using Pygame. It simulates falling characters that fade and change, creating a visual effect similar to the one seen in "The Matrix" movies.
 
 ## NOTICE GENERATED WITH AI
